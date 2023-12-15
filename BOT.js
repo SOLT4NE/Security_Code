@@ -50,6 +50,6 @@ function checkAllMembers(client) {
 }
 
 
-client.login('MTE4NDI1NzI3MzQwMTQ0MjM3NQ.G414l7.Dfg5_ILfaSn9Y62LDsEQexVexWkHOkqjW-76M8');
+client.login('Bot__Token');
 
 
